@@ -7,6 +7,6 @@
     "/content/aem-xcom.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/xcom/"
+    "/content/aem-xcom/"
   ]
 }
